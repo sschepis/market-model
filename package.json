@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node src/index.js",
     "demo": "node examples/demo.js",
-    "test": "node examples/test.js"
+    "test": "node examples/test.js",
+    "quickstart": "node examples/quickstart.js"
   },
   "keywords": [
     "market-model",
